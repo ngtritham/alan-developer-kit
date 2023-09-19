@@ -2,6 +2,7 @@
   "name": "alan-developer-kit",
   "displayName": "Alan Developer Kit",
   "description": "",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ngtritham/alan-developer-kit"
