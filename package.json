@@ -7,7 +7,7 @@
     "url": "https://github.com/ngtritham/alan-developer-kit"
   },
   "publisher": "alannguyen",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.82.0"
   },
