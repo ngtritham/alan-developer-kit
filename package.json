@@ -20,8 +20,16 @@
   "contributes": {
     "commands": [
       {
-        "command": "alan-developer-kit.helloWorld",
-        "title": "Hello World"
+        "command": "alan-developer-kit.smartConsoleLog",
+        "title": "Alan Kit: Smart Console Log"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "alan-developer-kit.smartConsoleLog",
+        "key": "shift+ctrl+l",
+        "mac": "shift+cmd+l",
+        "when": "editorTextFocus"
       }
     ]
   },
