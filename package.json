@@ -8,7 +8,7 @@
     "url": "https://github.com/ngtritham/alan-developer-kit"
   },
   "publisher": "alannguyen",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "engines": {
     "vscode": "^1.82.0"
   },
